@@ -1,4 +1,4 @@
-# reboot-to-windows-systemd
+# reboot to windows menu icon
 short script and .desktop file for dual-boot system
 # ONLY UEFI AND SYSTEMD
 How to use it:
