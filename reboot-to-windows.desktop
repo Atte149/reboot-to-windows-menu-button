@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=pkexec sh -c /PATH/TO/SCRIPT
+Name[en]=Reboot to Windows
+Name[ru]=Перезагрузка в Windows
+Icon=/PATH/TO/YOUR/ICON
